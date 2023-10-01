@@ -1,7 +1,7 @@
 # Deep-Learning-Assignment
 Deep Learning Assignment 2023
 
-Wanni Arachchige P.N -IT20607128
+Wanni Arachchige P.N -IT20617028
 
 Herath H.M.U.R - IT20617400
 
